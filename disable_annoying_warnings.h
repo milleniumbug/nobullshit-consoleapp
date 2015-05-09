@@ -1,3 +1,4 @@
+﻿// MSVS ENCODING BULLSHIT DISABLING DIRECTIVE: ZAŻÓŁĆ 象形字 áéíóúüñ 🖕📶 📷 💵 
 // Here you can globally disable annoying unhelpful warnings.
 // You can add/remove/comment/uncomment warning disabling directives at will
 
