@@ -1,8 +1,4 @@
-// stdafx.cpp : source file that includes just the standard includes
-// NoBullshitConsoleApplication.pch will be the pre-compiled header
-// stdafx.obj will contain the pre-compiled type information
-
+// Don't touch it unless you know what you're doing.
+// The file is required for precompiled headers to work.
 #include "stdafx.h"
-
-// TODO: reference any additional headers you need in STDAFX.H
-// and not in this file
+// Don't include headers here - do it in the stdafx.h file instead
